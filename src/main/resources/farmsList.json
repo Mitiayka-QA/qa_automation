@@ -1,0 +1,20 @@
+[
+  {
+    "farmName": "MilkFarm",
+    "animalsAmount": 20,
+    "animalProductivity": 8,
+    "milkLiterPrice": 3
+  },
+  {
+    "farmName": "Savushkin",
+    "animalsAmount": 30,
+    "animalProductivity": 10,
+    "milkLiterPrice": 2
+  },
+  {
+    "farmName": "NatureFarm",
+    "animalsAmount": 5,
+    "animalProductivity": 6,
+    "milkLiterPrice": 5
+  }
+]

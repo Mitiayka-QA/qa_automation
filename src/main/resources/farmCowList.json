@@ -1,0 +1,62 @@
+[
+  {
+    "farmName": "MilkFarm",
+    "animalsAmount": 3,
+    "animalProductivity": 8,
+    "milkLiterPrice": 3,
+    "cows": [
+      {
+        "age": 5,
+        "isfemale": true
+      },
+      {
+        "age": 2,
+        "isfemale": true
+      },
+      {
+        "age": 3,
+        "isfemale": true
+      }
+    ]
+  },
+  {
+    "farmName": "Savushkin",
+    "animalsAmount": 30,
+    "animalProductivity": 10,
+    "milkLiterPrice": 2,
+    "cows": [
+      {
+        "age": 7,
+        "isfemale": true
+      },
+      {
+        "age": 8,
+        "isfemale": true
+      },
+      {
+        "age": 6,
+        "isfemale": true
+      }
+    ]
+  },
+  {
+    "farmName": "NatureFarm",
+    "animalsAmount": 5,
+    "animalProductivity": 6,
+    "milkLiterPrice": 5,
+    "cows": [
+      {
+        "age": 9,
+        "isfemale": true
+      },
+      {
+        "age": 10,
+        "isfemale": true
+      },
+      {
+        "age": 11,
+        "isfemale": true
+      }
+    ]
+  }
+]
