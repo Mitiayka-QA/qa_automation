@@ -1,2 +1,11 @@
 # Project exclude paths
 /target/
+/.classpath
+/.project
+/bin/
+/.settings/
+/*.checkstyle
+/*.eclipse-pmd
+.idea/
+
+
