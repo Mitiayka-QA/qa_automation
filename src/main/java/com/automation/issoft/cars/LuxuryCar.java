@@ -1,4 +1,4 @@
-package cars;
+package com.automation.issoft.cars;
 
 public class LuxuryCar {
     int engineVolume = 3000; // cm3

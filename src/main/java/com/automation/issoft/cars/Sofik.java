@@ -1,4 +1,4 @@
-package cars;
+package com.automation.issoft.cars;
 
 public class Sofik {
     int engineVolume = 5000; // cm3

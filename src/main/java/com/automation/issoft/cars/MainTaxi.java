@@ -1,4 +1,4 @@
-package cars;
+package com.automation.issoft.cars;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -24,7 +24,7 @@ public class MainTaxi {
 //      destination[4] = "Grodno";
 //      destination[5] = "Mogilev";
 
-//        cars.Taxi newTaxi = new cars.Taxi();
+//        com.automation.issoft.cars.Taxi newTaxi = new com.automation.issoft.cars.Taxi();
 //        newTaxi.drive(destinations);
 //        newTaxi.fillTank(20);
 

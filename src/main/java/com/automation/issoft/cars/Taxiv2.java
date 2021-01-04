@@ -1,11 +1,10 @@
-package cars;
+package com.automation.issoft.cars;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.List;
 
 public class Taxiv2 {
-    //    cars.Taxiv2 defaultTaxi = new cars.Taxiv2();
+    //    com.automation.issoft.cars.Taxiv2 defaultTaxi = new com.automation.issoft.cars.Taxiv2();
     double fuelTank = 10;
     int yesNo;
 

@@ -1,4 +1,4 @@
-package cars;
+package com.automation.issoft.cars;
 
 import java.util.ArrayList;
 import java.util.List;
