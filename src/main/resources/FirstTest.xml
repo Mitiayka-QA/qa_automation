@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FirstTestSmoke">
+
+    <test name="First Test1">
+
+        <classes>
+            <class name="com.autotest.issoft.basictests.googletest.Edostavka">
+                <parameter name="searchParameter" value="65"></parameter>
+            </class>
+        </classes>
+    </test>
+
+    <test name="First Test2">
+
+        <classes>
+            <class name="com.autotest.issoft.basictests.googletest.Edostavka">
+                <parameter name="searchParameter" value="64.98"></parameter>
+            </class>
+        </classes>
+    </test>
+
+</suite>

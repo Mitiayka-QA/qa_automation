@@ -28,6 +28,19 @@
             <scope>provided</scope>
         </dependency>
 
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>6.8</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.codeborne</groupId>
+            <artifactId>selenide</artifactId>
+            <version>5.17.4</version>
+        </dependency>
+
+
     </dependencies>
 
 </project>
