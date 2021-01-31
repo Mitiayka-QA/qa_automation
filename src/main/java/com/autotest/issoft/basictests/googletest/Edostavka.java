@@ -16,6 +16,8 @@ public class Edostavka {
         String coffee = "Кофе натуральный в зерне «Lavazza» qualita oro";
 //        String searchParameter = "1";
 
+
+
         open("https://e-dostavka.by/");
 //        $(By.xpath("//div[@class='main_menu__inner']//i[@class='fa fa-search']"));
         $x("//div[@class='main_menu__inner']//i[@class='fa fa-search']").click();
